@@ -1,2 +1,2 @@
 # mioc_informatika
-praksa-informatika
+Materijali za praksu iz nastave informatike
