@@ -11,6 +11,3 @@ for i in range(N):
 broj = int(input())
 for s in susjedi[broj]:
 	print(s)
-""" zadatak se također mogao rješiti preko matrice susjedstva koju
-ste napisali u prvom zadataku
-"""
